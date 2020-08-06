@@ -1,0 +1,10 @@
+html,body {
+    margin: 0;
+    height: 100%;
+  }
+.section{
+    background: url('img/coming-soon-min.jpg') center center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+}
